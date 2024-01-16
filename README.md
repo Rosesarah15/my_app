@@ -15,4 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![page 1](images/Oeschinen_Lake.jpg)
+![page 1](images/screen1.png)
